@@ -2,6 +2,9 @@
 
 `AnimatedListView` A Flutter widget for animated listView.
 
+## Demo
+[Animated_listview_ex.webm](https://github.com/AyaAbdElmoneim158/animated_list_view/assets/114832629/318f1267-d7f3-44a5-9ac8-3ba7c7505c3a)
+
 ## Features
 
  - `Animated List View` Show dynamically animated list items
